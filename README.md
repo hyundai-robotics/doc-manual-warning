@@ -1,15 +1,22 @@
 ﻿
 {% hint style="warning" %}
 
-	- 본 제품 매뉴얼에서 제공되는 정보는 HD현대로보틱스의 자산입니다.
-	- HD현대로보틱스의 서면에 의한 동의 없이 전부 또는 일부를 무단 전재 및 재 배포할 수 없으며, 제 3자에게 제공되거나 다른 목적에 사용할 수 없습니다.
-	- 본 매뉴얼은 사전 예고 없이 변경, 수정, 업데이트 될 수 있습니다.
-	- 로봇의 작동, 교육, 유지보수 또는 점검을 위해 지정된 모든 엔지니어는 HD현대로보틱스에서 준비한 교육과정을 이수하는 것을 권장합니다.
-	- HD현대로보틱스는 본 매뉴얼에 나타날 수 있는 모든 오류에 대해 책임을 지지 않습니다.
-	- 본 매뉴얼에서 특정하게 명시적으로 언급되는 경우를 제외하고, HD현대로보틱스에서는 개인 또는 자산의 손해, 손상, 특정 목적에 대한 적합성 등에 대해 어떠한 형태로도 보증하지 않습니다.
-	- 어떠한 경우에도 HD현대로보틱스는 본 매뉴얼 및 본 문서에 설명된 제품의 사용으로 인해 발생한 우발적 또는 결과적인 손해에 대해 책임을 지지 않습니다.
-	- 산업용 로봇 제품을 사용하기 전, 관련된 매뉴얼을 숙지하시기 바랍니다.
-	- 로봇을 보전, 보수, 조작하는 작업자는 반드시 적절한 교육 과정을 이수한 후에 로봇을 취급할 수 있도록 하여 주십시오.
-	- 산업용 로봇의 사용자는 해당 국가에서 적용되는 로봇과 관계된 안전관련 법규를 확실히 파악하여 준수하여야 할 책임과 로봇 시스템에서 일하는 작업자를 보호하기 위한 안전장치를 제대로 설계, 설치, 운용할 책임이 있습니다.
-       
+	- The information provided in this product manual is the property of HD Hyundai Robotics.
+	- Without prior written consent from HD Hyundai Robotics, this manual may not be reproduced or
+	redistributed, in whole or in part, nor may it be provided to third parties or used for any other
+	purpose.
+	- This manual is subject to change, modification, or update without prior notice.
+	- All engineers designated for robot operation, training, maintenance, or inspection are recommended to
+	complete the training programs provided by HD Hyundai Robotics.
+	- HD Hyundai Robotics assumes no responsibility for any errors that may appear in this manual.
+	- Except where expressly stated otherwise in this manual, HD Hyundai Robotics makes no warranties of any
+	kind, including but not limited to warranties regarding personal injury, property damage, or fitness for a particular purpose.
+	- Under no circumstances shall HD Hyundai Robotics be liable for any incidental or consequential damages
+	arising from the use of this manual or the products described herein.
+	- Please be familiar with the relevant manual before using industrial robot products.
+	- Workers who maintain, repair or operate the robot must ensure that the robot is handled after completing the appropriate training courses.
+	- Users of industrial robots are responsible for ensuring that they understand and comply with the
+	relevant safety laws and regulations and for designing, installing and operating safeguards to protect
+	workers working in the robot system.
+
 {% endhint %}
